@@ -1,0 +1,13 @@
+.intro__caption {
+    max-width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+}
+  
+@media screen and (max-width: 555px) {
+  .intro__caption {
+    max-width: 100%;
+    gap: 20px;
+  }
+}
