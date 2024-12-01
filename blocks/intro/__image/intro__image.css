@@ -1,0 +1,14 @@
+.intro__image {
+  width: 31.2%;
+  margin: 0 auto;
+  padding-left: 39px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 544px) {
+  .intro__image {
+    width: 100%;
+    padding-left: 0;
+  }
+}
