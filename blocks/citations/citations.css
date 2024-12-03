@@ -1,0 +1,8 @@
+.citations {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  font-family: inherit;
+}
+
+
