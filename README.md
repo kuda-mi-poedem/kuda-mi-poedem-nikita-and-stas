@@ -1,2 +1,2 @@
-# nikita-and-stas
-A project to create a one-page travel website with elements of teamwork
+# Ветка Станислава
+А здесь работал еще один лучший web-дизайнер - Ердотеску Станислав
